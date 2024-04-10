@@ -45,7 +45,7 @@ iostream, string, cstdio, cmath, string, fstream, filesystem
 
 不允许使用这些头文件包含的 STL 容器 (如 `std::vector`) 或算法 (如 `std::sort`)。唯一的例外是，你可以使用 `std::string`。如果需要用到其他与算法、数据结构无关的标准库，请向助教提出请求。
 
-你需要在最后通过 [OJ 测试](https://acm.sjtu.edu.cn/OnlineJudge/problem/1837)。
+你需要在最后通过 [OJ 测试](https://acm.sjtu.edu.cn/OnlineJudge/problem/2186)。
 
 注意：建议使用类模板以方便后续完成管理系统。
 
