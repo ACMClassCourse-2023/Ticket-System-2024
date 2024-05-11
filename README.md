@@ -63,7 +63,7 @@ iostream, string, cstdio, cmath, string, fstream, filesystem
 
 ## 管理系统 - 8%
 
-敬请期待发布。
+见 [管理系统文档](management_system.md)。
 
 ## Bonus
 
