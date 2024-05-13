@@ -65,6 +65,12 @@ iostream, string, cstdio, cmath, string, fstream, filesystem
 
 见 [管理系统文档](management_system.md)。
 
+数据压缩包下发在群里。
+
+### 负责助教
+李心瑶 金嘉禾 王鲲鹏
+
+
 ## Bonus
 
 见 [Bonus 文档](bonus.md)。
